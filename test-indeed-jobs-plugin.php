@@ -170,7 +170,7 @@ function display_indeed_jobs(){
 	global $load_click_js;
 	$load_click_js = true;
 
-	$publisher_val = 298632640122256; 
+	$publisher_val = ######## TAKEN OUT FOR SECURITY REASONS #######; 
 	$company_name = 'company_id';
 	$company_val = get_option( $company_name);
 
