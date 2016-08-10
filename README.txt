@@ -9,3 +9,5 @@ The Indeed Jobs WordPress plugin was created in a 24 hour hackathon project. The
 
 1. Upload `test-indeed-jobs-plugin.zip` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
+
+NOTE: The publisher ID used for this project was taken out for security reasons. Before use, please sign up for your own publisher ID through Indeed and add it to the test-indeed-jobs-plugin.php file.
